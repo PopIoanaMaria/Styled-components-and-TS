@@ -1,0 +1,139 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "rank": 1,
+      "name": "Juliet Oma",
+      "score": "100",
+      "color_rank": "#d8d594",
+      "backgroundColor_rank": "#555149"
+    },
+    {
+      "id": 2,
+      "rank": 2,
+      "name": "James Williams",
+      "score": "44",
+      "color_rank": "#a19fa4",
+      "backgroundColor_rank": "#4e4b53"
+    },
+    {
+      "id": 3,
+      "rank": 3,
+      "name": "Ahmed Ali",
+      "score": "2",
+      "color_rank": "#a79f9c",
+      "backgroundColor_rank": "#6c5c5c"
+    },
+    {
+      "id": 4,
+      "rank": 4,
+      "name": "Grace Funsho",
+      "score": "3333",
+      "color_rank": "#312d36",
+      "backgroundColor_rank": "#504c59"
+    },
+    {
+      "id": 5,
+      "rank": 5,
+      "name": "Aaaa Ali",
+      "score": "5222",
+      "color_rank": "#312d36",
+      "backgroundColor_rank": "#504c59"
+    },
+    {
+      "id": 6,
+      "rank": 7,
+      "name": "WSS Tiss",
+      "score": "4333",
+      "color_rank": "#312d36",
+      "backgroundColor_rank": "#504c59"
+    }
+  ],
+  "games": [
+    {
+      "game": "GAME 1.1.1",
+      "users": [
+        {
+          "name": "Juliet Oma",
+          "score": 150
+        },
+        {
+          "name": "James Williams",
+          "score": 100
+        },
+        {
+          "name": "Ahmed Ali",
+          "score": 60
+        }
+      ]
+    },
+    {
+      "game": "GAME 1.1.2",
+      "users": [
+        {
+          "name": "Juliet Oma",
+          "score": 20
+        },
+        {
+          "name": "James Williams",
+          "score": 10
+        },
+        {
+          "name": "Ahmed Ali",
+          "score": 5
+        }
+      ]
+    },
+    {
+      "game": "GAME 1.1.3",
+      "users": [
+        {
+          "name": "Juliet Oma",
+          "score": 100
+        },
+        {
+          "name": "James Williams",
+          "score": 30
+        },
+        {
+          "name": "Ahmed Ali",
+          "score": 10
+        }
+      ]
+    },
+    {
+      "game": "GAME 1.1.4",
+      "users": [
+        {
+          "name": "Juliet Oma",
+          "score": 250
+        },
+        {
+          "name": "James Williams",
+          "score": 20
+        },
+        {
+          "name": "Ahmed Ali",
+          "score": 10
+        }
+      ]
+    },
+    {
+      "game": "GAME 1.1.5",
+      "users": [
+        {
+          "name": "Juliet Oma",
+          "score": 40
+        },
+        {
+          "name": "James Williams",
+          "score": 30
+        },
+        {
+          "name": "Ahmed Ali",
+          "score": 20
+        }
+      ]
+    }
+  ]
+}
